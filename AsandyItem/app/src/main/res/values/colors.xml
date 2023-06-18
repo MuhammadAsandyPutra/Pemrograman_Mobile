@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<color name="my_light_primary">#b1ddd3</color>
+<color name="my_light_primary_variant">#b1ddd3</color>
+<color name="my_light_accent">#FF4081</color>
+<color name="my_light_underline">#D8D6D6</color>
+    <color name="underline">#D8D6D6</color>
+    <color name="my_light_navbar">#b1ddd3</color>
+</resources>
+
+

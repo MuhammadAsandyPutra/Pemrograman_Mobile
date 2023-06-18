@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Mobil"
+        android:id="@+id/mobil"
+        android:icon="@drawable/ic_baseline_directions_car_24"/>
+    <item android:title="Motor"
+        android:id="@+id/motor"
+        android:icon="@drawable/ic_baseline_sports_motorsports_24"/>
+</menu>
